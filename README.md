@@ -1,5 +1,6 @@
 # cms-data 
 #worked code for CMSSW_9_4_10_UCSBRice_v4 
+
 scramv1 project -n CMSSW_9_4_10_UCSBRice_v4 CMSSW CMSSW_9_4_10
 cd CMSSW_9_4_10_UCSBRice_v4/src/
 cmsenv
